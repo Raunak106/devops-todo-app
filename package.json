@@ -1,8 +1,10 @@
 
 {
-  "name": "vite_react_shadcn_ts",
-  "private": true,
-  "version": "0.0.0",
+  "name": "devops-todo-app",
+"private": true,
+"version": "1.0.0",
+"description": "DevOps-ready To-Do List web application with analytics and productivity tracking",
+
   "type": "module",
   "scripts": {
     "dev": "vite",

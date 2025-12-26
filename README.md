@@ -106,15 +106,15 @@ npm run build
 The generated dist folder can be deployed directly to Cloudflare Pages.
 
 📂 Project Structure
-devops-todo-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.tsx
-│   ├── main.tsx
-├── index.html
-├── package.json
-├── README.md
+
+![WhatsApp Image 2025-12-26 at 12 26 11](https://github.com/user-attachments/assets/a2576451-5b94-4f66-be9d-ce54957b3289)
+
+🎓 SCREENSHOTS
+
+<img width="1145" height="249" alt="Screenshot 2025-12-26 122039" src="https://github.com/user-attachments/assets/476331e0-60b1-4348-8f58-cb261f48b7ae" />
+
+
+
 
 🎓 Academic & Learning Value
 
